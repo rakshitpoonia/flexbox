@@ -1,0 +1,24 @@
+.Heading{
+    border:solid;
+    background-color:cyan;
+    display:flex;
+    justify-content:space-evenly;
+}
+.Image{
+    border:solid;
+    background-color: rgb(226, 37, 217);
+    display:flex;
+    justify-content:space-evenly;
+}
+.news{
+    border:solid;
+    justify-content:center;
+}
+.admission{
+    border:solid;
+}
+.social{
+    border:solid;
+    display:flex;
+    justify-content:center;
+}
